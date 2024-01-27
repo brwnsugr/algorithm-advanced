@@ -5,6 +5,15 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ *
+ * LeetCode #2964. Number of Divisible Triplet Sums
+ *
+ * leetcode.com/problems/number-of-divisible-triplet-sums/
+ *
+ * TC: O(N^2)
+ */
+
 public class NumberDivisibleTripletSums {
     public int divisibleTripletCount(int[] nums, int d) {
         Map<Integer, List<int[]>> m = new HashMap<>();
