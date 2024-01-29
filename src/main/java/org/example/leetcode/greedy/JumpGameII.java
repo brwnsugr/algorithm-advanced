@@ -1,4 +1,4 @@
-package org.example.leetcode.greedy.jumpGame;
+package org.example.leetcode.greedy;
 
 /**
  * LeetCode #45. Jump Game II
